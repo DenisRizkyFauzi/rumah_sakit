@@ -1,0 +1,21 @@
+[
+    
+    {
+        "no_rekam_medis": "123",
+        "dokter": "deder",
+        "diagnosa_awal": "stres",
+        "jenis_penyakit": "stres",
+        "tindakan": "kureng",
+        "obat": "paracetamol",
+        "keterangan": "pusing"
+    },
+    {
+        "no_rekam_medis": "123",
+        "dokter": "deder",
+        "diagnosa_awal": "stres",
+        "jenis_penyakit": "stres",
+        "tindakan": "kureng",
+        "obat": "paracetamol",
+        "keterangan": "pusing"
+    }
+]

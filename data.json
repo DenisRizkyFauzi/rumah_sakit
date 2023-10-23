@@ -1,0 +1,51 @@
+[
+    {
+        "no_rekam_medis": "12",
+        "nama_pasien": "denis",
+        "jenis_pasien": "sakit",
+        "nama_perusahaan": "",
+        "jenis_kelamin": "Laki-laki",
+        "umur": "21",
+        "pekerjaan": "mahasiswa",
+        "agama": "islam",
+        "alamat": "tasik",
+        "no_telepon": "12134",
+        "tanggal_masuk": "2023-10-06"
+    },
+    {
+        "no_rekam_medis": "123",
+        "dokter": "gadungan",
+        "diagnosa_awal": "terlalu pintar",
+        "jenis_penyakit": "ga ada",
+        "tindakan": "b aja",
+        "obat": "main game",
+        "keterangan": "hahhihi"
+    },
+    {
+        "no_rekam_medis": "",
+        "dokter": "",
+        "diagnosa_awal": "",
+        "jenis_penyakit": "",
+        "tindakan": "",
+        "obat": "",
+        "keterangan": ""
+    },
+    {
+        "no_rekam_medis": "",
+        "dokter": "",
+        "diagnosa_awal": "",
+        "jenis_penyakit": "",
+        "tindakan": "",
+        "obat": "",
+        "keterangan": ""
+    },
+    {
+        "no_rekam_medis": "",
+        "dokter": "",
+        "diagnosa_awal": "",
+        "jenis_penyakit": "",
+        "tindakan": "",
+        "obat": "",
+        "keterangan": ""
+    }
+]
